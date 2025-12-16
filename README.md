@@ -5,10 +5,6 @@ A passionate Full Stack Developer (MERN) | Backend-Focused Engineer from India �
 
 Open to full-time roles, collaborations, and exciting projects 🚀
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
-🔭 I’m currently working on:
-Scalable MERN stack applications, real-time systems, and backend-heavy projects
-
 🌱 I’m currently learning:
 System Design, Advanced Node.js, Performance Optimization, and DSA
 
